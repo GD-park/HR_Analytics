@@ -1,5 +1,5 @@
 # HR_Analytics
-- Find reason employees leaving prematurely Using Kaggle dataset(https://www.kaggle.com/ludobenistant/hr-analytics)
+- Find the reason why employees leaving prematurely Using Kaggle dataset(https://www.kaggle.com/ludobenistant/hr-analytics)
 
 ## Feature
 - Last evaluation
