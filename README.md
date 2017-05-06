@@ -1,7 +1,7 @@
 # HR_Analytics
 - Find the reason why employees leaving prematurely Using Kaggle dataset(https://www.kaggle.com/ludobenistant/hr-analytics)
 
-## Feature
+## Features
 - Last evaluation
 - Number of projects
 - Average monthly hours
