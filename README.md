@@ -17,5 +17,5 @@
 Preprocessing => EDA => Modeling => Model Comparing
 
 ## Limiation
-Data set is very clean so i don't need spending time on the preprocessing. Later I try to more realitic data and try to Classification again.
+Data set is very clean so i don't need to spend time on the preprocessing. Later I try to more realitic data and try to Classification again.
 
