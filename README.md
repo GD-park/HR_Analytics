@@ -17,7 +17,8 @@
 Preprocessing => EDA => Modeling => Model Comparing
 
 ## Insight
-satisfaction_level => number_project => time_spend_company => average_montly_hours => last_evaluation => Department => work_accident => salary => promotion_last_5years  this sequence makes effect on the employee left
+- satisfaction_level => number_project => time_spend_company => average_montly_hours => last_evaluation => Department => work_accident => salary => promotion_last_5years  this sequence makes effect on the employee left
+- If the satisfaction_lever = 0.1, 0.4, 0.8 employee left the job
 
 
 ## Limiation
