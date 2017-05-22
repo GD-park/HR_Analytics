@@ -19,6 +19,8 @@ Preprocessing => EDA => Modeling => Model Comparing
 ## Insight
 - satisfaction_level => number_project => time_spend_company => average_montly_hours => last_evaluation => Department => work_accident => salary => promotion_last_5years  this sequence makes effect on the employee left
 - If the satisfaction_lever = 0.1, 0.4, 0.8 employee left the job
+- 3 ~ 4 project in month makes employee left the company less
+- the most interesting thing is the salary do not effect on the employee leave the company
 
 
 ## Limiation
