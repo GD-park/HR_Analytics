@@ -16,6 +16,10 @@
 ## Process
 Preprocessing => EDA => Modeling => Model Comparing
 
+## Insight
+satisfaction_level => number_project => time_spend_company => average_montly_hours => last_evaluation => Department => work_accident => salary => promotion_last_5years  this sequence makes effect on the employee left
+
+
 ## Limiation
 Data set is very clean so i don't need to spend time on the preprocessing. Later I try to more realitic data and try to Classification again.
 
