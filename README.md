@@ -22,6 +22,9 @@ Preprocessing => EDA => Modeling => Model Comparing
 - 3 ~ 4 project in month makes employee left the company less
 - the most interesting thing is the salary do not effect on the employee leave the company
 
+## Model Comparing
+- Random Forest is one of Ensemble model so that is reason why the score of accuracy is higher than other model
+- Rogistic Regression is very inappropriate model to use classification
 
 ## Limiation
 Data set is very clean so i don't need to spend time on the preprocessing. Later I try to more realitic data and try to Classification again.
